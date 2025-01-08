@@ -1,0 +1,13 @@
+{
+"nombre": "Adrián Trujillo Ramiro",
+"profesion": "Estudiante de 1ºDAW",
+"bio": "Joven estudiante con ganas de formarse y trabajar.",
+"experiencia": [
+    {
+        "nombre": "Fibergy Networks",
+        "descripcion": "Practicas grado medio",
+        "fecha": "Abril 2024 - Junio 2024"
+    }
+],
+    "habilidades": "Redes, Montaje, Marketing, Ciberseguridad, Java, HTML, JSON, XML" 
+}
